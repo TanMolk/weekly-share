@@ -11,3 +11,4 @@ Weekly-Share是一个希望让更多人了解流行技术的项目。 我从开�
 ## 分享
 
 - [探索ELK：高效的日志管理与分析解决方案 - 以我个人网站为例](./share-1/ELK-CN.md)
+- [JAVA的简要发展史](./share-2/Java-CN.md)
