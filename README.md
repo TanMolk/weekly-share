@@ -11,3 +11,4 @@ Weekly-Share is a project, hoping to share the popular technologies. I have lear
 ## Share List
 
 - [Explore ELK: An efficient log management and analysis solution - My personal portfolio as an example](./share-1/ELK-EN.md)
+- [A Brief History of Java's Development](./share-2/Java-EN.md)
